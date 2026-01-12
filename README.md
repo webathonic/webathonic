@@ -8,7 +8,7 @@ Geospatial Analyst | Flood Risk Specialist | Open-Source Advocate**
 - **LandAlert**
 Global Winner, VSCP Hackathon 2025 - Web-based environmental alert system for climate-resilient land administration
 Real-time land monitoring with climate risk assessment
-Tech: Python (Flask), JavaScript (Leaflet), PostgreSQL/PostGIS
+Tech: Python django , JavaScript (Leaflet), PostgreSQL/PostGIS
 - 📫 **Let's Connect**
 - 🌐 LinkedIn: linkedin.com/in/adeola-oyetunde
 - 🗺️ OpenStreetMap: (https://www.openstreetmap.org/user/Adeola_Anthonia)
